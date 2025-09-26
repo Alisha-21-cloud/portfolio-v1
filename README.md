@@ -254,7 +254,7 @@ VALUES ('REPLACE_WITH_YOUR_CERTIFICATE_IMAGE_URL.png');
 
 -- Insert one example comment
 INSERT INTO public.portfolio_comments (content, user_name) 
-VALUES ('Created By Eki Zulfar Rachman', 'ekizr');
+VALUES ('Created By Syed Ahmad Alisha', 'ekizr');
 
 ```
 
